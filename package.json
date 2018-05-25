@@ -6,7 +6,7 @@
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "Akhmadjon Ruzikulov",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "4.1.1",
